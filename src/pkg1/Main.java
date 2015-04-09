@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Integer[] Array1 = MoreOrLessRandomArray.ArrayCreation(50000, 25000);
+        Integer[] Array1 = SomeSorts.ArrayCreation(50000, 25000);
         
         Stopwatch watch = new Stopwatch();
         
